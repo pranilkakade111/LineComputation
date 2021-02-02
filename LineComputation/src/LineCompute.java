@@ -13,6 +13,7 @@ public class LineCompute
         x1=sc.nextInt();
         System.out.println("enter y1 point");
         y1=sc.nextInt();
+        
         System.out.println("enter x2point");
         x2=sc.nextInt();
         System.out.println("enter y2 point");
